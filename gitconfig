@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api cecile.demoor@gmail.com
-	name = Cécile Demoor
+	email = cecile.demoor@gmail.com
+	name = Cecile Demoor
